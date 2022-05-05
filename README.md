@@ -1,4 +1,4 @@
-# flutter_newsapp
+# FLUTTER NEWS APP
 
 A News App using [API from newsapi.org](newsapi.org) and using Bloc.
 
